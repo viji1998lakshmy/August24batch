@@ -20,7 +20,9 @@ public class Execution {
 		
 		driver.findElement(By.id("email")).sendKeys("viji");
 		
-		
+		System.out.println("Work done by developer");
+		System.out.println("Running in Local");
+		System.out.println("Developer fixed the BUG");
 		
 		
 	}
